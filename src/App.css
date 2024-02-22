@@ -1,0 +1,19 @@
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+  background-color: antiquewhite;
+}
+
+.navbar Link {
+  text-decoration: none;
+  /* color: darkslategray; */
+  color: red;
+}
+
+.user-card{
+  border: 1px solid red;
+  margin: 10px;
+  padding: 10px;
+}
